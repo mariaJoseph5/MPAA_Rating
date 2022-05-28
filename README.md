@@ -1,1 +1,1 @@
-# MPAA_Rating
+This project describes the architectural design and implementation of a system to predict the MPAA rating of a set of movies, thereby illuminating viewers on the suitability of these movies for various age groups. The model is designed on the basis of dialogues in movies, the bad word ratio and the context in which said words are used.
